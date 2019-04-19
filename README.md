@@ -1,6 +1,7 @@
 # input-mapper
 
 [https://shaggun.github.io/input-mapper/](https://shaggun.github.io/input-mapper/)
+
 [Using function-plot](https://www.npmjs.com/package/function-plot)
 
 When I need to map normalized joystick values to different values, let's say I want to move my character from idle animation to a running animation.
