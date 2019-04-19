@@ -8,6 +8,6 @@ When I need to map normalized joystick values to different values, let's say I w
 
 I can find an equation by calculating the slope and the intercept, that will give me a linear function, which it's enough in most cases. Now, let's say I want some kind of interpolation to smooth the movements, I start slowly and it speeds up towards the end, I could use a simple quadratic function to do that. These calculations are trivial but it won't hurt saving some minutes to do it.
 
-**Note tha the quadratic functions are only valid for half an axis when X starts at 0, if I want to use a function taking both, negative and positive axis values, where -1<=X<=1 I can use a sine function or a linear function**
+**Note that the quadratic functions are only valid for half an axis when X starts at 0, if I want to use a function taking both, negative and positive axis values, where -1<=X<=1 I can use a sine function or a linear function**
 
 > A Vue.js project
