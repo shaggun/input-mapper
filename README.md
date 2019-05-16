@@ -1,5 +1,6 @@
 # input-mapper 
 **internal use only**
+
 [https://shaggun.github.io/input-mapper/](https://shaggun.github.io/input-mapper/)
 
 [Using function-plot](https://www.npmjs.com/package/function-plot)
